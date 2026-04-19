@@ -1,5 +1,7 @@
 # FES-MADM III
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19651093.svg)](https://doi.org/10.5281/zenodo.19651093)
+
 Computational materials, scenario datasets, executable code, and reproducibility assets supporting the FES-MADM III decision-analytics framework.
 
 ---
@@ -63,7 +65,9 @@ Users may directly execute the provided code, inspect structured inputs, and rep
 
 ## Citation
 
-A permanent archival DOI will be assigned through Zenodo following the first formal public release.
+If using this repository, please cite:
+
+Kiratsoudis, S. (2026). FES-MADM III: Computational materials, scenario datasets, executable code, and reproducibility assets. Zenodo. https://doi.org/10.5281/zenodo.19651093
 
 ---
 
