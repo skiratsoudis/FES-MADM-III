@@ -1,55 +1,44 @@
 # FES-MADM III
 
-## DOI Archive
+Computational materials, structured scenario datasets, executable code, analytical outputs, and reproducibility assets supporting the FES-MADM III decision-analytics framework.
 
-Permanent archived version available at Zenodo:
-
-https://doi.org/10.5281/zenodo.19651093
-
----
-
-Computational materials, scenario datasets, executable code, and reproducibility assets supporting the FES-MADM III decision-analytics framework.
+**Permanent DOI Archive:** https://doi.org/10.5281/zenodo.19651093
 
 ---
 
 ## Overview
 
-FES-MADM III (Fuzzy Entropy-Synergy Multi-Attribute Decision-Making III) is an advanced multicriteria decision-analytics framework designed for uncertainty-aware ranking, comparative evaluation, and robustness-oriented decision support under multiple operating scenarios.
+FES-MADM III (Fuzzy Entropy-Synergy Multi-Attribute Decision-Making III) is an advanced multicriteria decision-analytics framework developed for uncertainty-aware ranking, comparative evaluation, and robustness-oriented decision support under multiple operating environments.
 
-The framework combines fuzzy-data representation, entropy-based information extraction, weighted multicriteria aggregation, and scenario-sensitive comparative diagnostics within a transparent and auditable computational environment.
+The framework integrates fuzzy-data representation, entropy-based information extraction, weighted multicriteria aggregation, and scenario-sensitive comparative diagnostics within a transparent and auditable computational workflow.
 
-This repository provides the companion research materials associated with the framework, including structured datasets, implementation code, scenario configurations, and consolidated outputs.
+This repository provides the companion research package associated with the framework, including structured datasets, executable implementation files, consolidated outputs, and supporting documentation.
 
 ---
 
-## Key Capabilities
+## Key Contributions
 
-- Fuzzy multicriteria evaluation under uncertain inputs  
+- Multicriteria evaluation under uncertain or imprecise inputs  
 - Entropy-informed weighting and discriminatory assessment  
 - Scenario-based ranking under changing external conditions  
 - Comparative robustness analysis across alternatives  
-- Transparent and reproducible computational workflow  
-- Decision support for complex managerial and operational environments
+- Transparent and reproducible analytical workflow  
+- Structured decision support for complex operational environments
 
 ---
 
 ## Repository Structure
 
-- **data/**  
-  Structured scenario input datasets used for model execution.
-
-- **code/**  
-  Executable R implementation of the FES-MADM III framework.
-
-- **results/**  
-  Consolidated outputs, rankings, and scenario results.
-
-- **docs/**  
-  Supporting documentation, metadata, and archival materials.
+- `data/` Scenario input datasets  
+- `code/` Executable R implementation  
+- `results/` Consolidated analytical outputs  
+- `docs/` Methodological and archival documentation
 
 ---
 
-## Included Scenarios
+## Included Scenario Set
+
+The repository includes multiple operating environments for comparative analysis:
 
 - **S0** Baseline Environment  
 - **S1** Inflation / Market Tightening  
@@ -57,26 +46,51 @@ This repository provides the companion research materials associated with the fr
 - **S3** Market Consolidation  
 - **S4** Budget Tightening
 
-These scenarios are included to enable sensitivity assessment and comparative evaluation under distinct external conditions.
+These scenarios enable sensitivity assessment, resilience analysis, and ranking comparison under materially different external conditions.
 
 ---
 
-## Reproducibility and Transparency
+## Reproducibility
 
-All repository contents are organized to support computational replication, scenario re-evaluation, sensitivity testing, and independent validation of reported outputs.
+All files are organized to facilitate:
 
-Users may directly execute the provided code, inspect structured inputs, and reproduce the analytical workflow in a transparent manner.
+- Direct execution of the computational workflow  
+- Independent replication of outputs  
+- Cross-scenario comparison  
+- Sensitivity testing  
+- Transparent methodological review
+
+Users may inspect the datasets, run the provided implementation code, and verify the analytical outputs in a fully structured environment.
+
+---
+
+## Typical Application Areas
+
+Although demonstrated through structured supplier and procurement analytics, the framework may be adapted to broader decision contexts, including:
+
+- Strategic sourcing  
+- Portfolio evaluation  
+- Public-sector prioritization  
+- Comparative benchmarking  
+- Risk-informed planning  
+- Managerial decision support
 
 ---
 
 ## Citation
 
-If using this repository, please cite:
+If this repository contributes to your research or applied work, please cite:
 
-Kiratsoudis, S. (2026). FES-MADM III: Computational materials, scenario datasets, executable code, and reproducibility assets. Zenodo. https://doi.org/10.5281/zenodo.19651093
+Kiratsoudis, S. (2026). *FES-MADM III: Computational materials, structured scenario datasets, executable code, analytical outputs, and reproducibility assets*. Zenodo. https://doi.org/10.5281/zenodo.19651093
 
 ---
 
 ## License
 
 This repository is distributed under the MIT License.
+
+---
+
+## Final Remark
+
+FES-MADM III was developed as a decision-support framework that combines analytical rigor, interpretability, and operational relevance under uncertainty.
